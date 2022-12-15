@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "title": "ABONNÉS FREE : 3 MOIS DE DISNEY+ GRATUITS",
+            "url": "",
+            "image": "https://img.argentdubeurre.com/content/7811/illustration/disney-plus-freebox-4.jpg",
+            "imageExt": "",
+            "promotion": "",
+            "price": "",
+            "priceCurrency": "",
+            "priceDeal": "",
+            "priceDealCurrency": ""
+        },
+        {
+            "title": "AMAZON OUTLET : LES PRODUITS À PRIX TRÈS RÉDUITS",
+            "url": "",
+            "image": "https://img.argentdubeurre.com/content/6708/illustration/outlet-amazon-4.jpg",
+            "imageExt": "",
+            "promotion": "",
+            "price": "",
+            "priceCurrency": "",
+            "priceDeal": "",
+            "priceDealCurrency": ""
+        },
+        {
+            "title": "AMAZON OFFRES RECONDITIONNÉES : JUSQU'À -50%",
+            "url": "",
+            "image": "https://img.argentdubeurre.com/content/6563/illustration/amazon-offres-recond-4.jpg",
+            "imageExt": "",
+            "promotion": "",
+            "price": "",
+            "priceCurrency": "",
+            "priceDeal": "",
+            "priceDealCurrency": ""
+        },
+        {
+            "title": "SFR RED : FORFAIT ILLIMITÉ 160 GO = 16€/MOIS",
+            "url": "https://www.red-by-sfr.fr/forfaits-mobiles/",
+            "image": "https://img.argentdubeurre.com/content/6408/illustration/promo-sfr-red-10-go-4.jpg",
+            "imageExt": "",
+            "promotion": "",
+            "price": "",
+            "priceCurrency": "",
+            "priceDeal": "",
+            "priceDealCurrency": ""
+        },
+        {
+            "title": "FNAC : OFFRE CARTE FNAC+ 4€99 pour 1 an",
+            "url": "https://www.fnac.com/choisir-carte#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN2|L1",
+            "image": "https://secure.fnac.com/basket/add?productId=14876194",
+            "imageExt": "",
+            "promotion": "",
+            "price": "",
+            "priceCurrency": "",
+            "priceDeal": "",
+            "priceDealCurrency": ""
+        }
+    ]
+}
