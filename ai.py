@@ -155,7 +155,7 @@ def findAndAddItem(url, index):
 
 
 def pickHardAndAddTo(data): 
-    f = open('hard.json')
+    f = open('./cache/hard.json')
     hardData = json.load(f)
     f.close()
 
@@ -193,7 +193,7 @@ pc = ' https://www.amazon.fr/gp/goldbox?ie=UTF8&pf_rd_p=a1f294b4-3de9-4f2e-8561-
 headphone = ' https://www.amazon.fr/gp/goldbox?ie=UTF8&pf_rd_p=a1f294b4-3de9-4f2e-8561-165ecd4cc2af&pf_rd_r=4D301S34YY420TNQ7VME&pf_rd_s=auto-subnav-flyout-xiste-content-5&pf_rd_t=SubnavFlyout&ref_=sn_gfs_co_auto-xiste_51375011_1&deals-widget=%257B%2522version%2522%253A1%252C%2522viewIndex%2522%253A0%252C%2522presetId%2522%253A%2522deals-collection-all-deals%2522%252C%2522departments%2522%253A%255B%252214054961%2522%255D%252C%2522sorting%2522%253A%2522BY_SCORE%2522%257D'
 
 # read 
-f = open('sample.json')
+f = open('./cache/sample.json')
 data = json.load(f)
 f.close()
 
