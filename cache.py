@@ -10,16 +10,16 @@ def getFirst(url, index):
     page = requests.get(url)
     stringHtml = page.text
 
-    f = open("demofile2.html", "w")
-    f.write(stringHtml)
-    f.close()
+    #f = open("demofile2.html", "w")
+    #f.write(stringHtml)
+    #f.close()
 
     x = re.search(r"assets.mountWidget\('slot-16', (.*)\)", stringHtml) 
     #print(x.group(1))
 
-    f = open("group.json", "w")
-    f.write(x.group(1))
-    f.close()
+    #f = open("group.json", "w")
+    #f.write(x.group(1))
+    #f.close()
 
     # get {index} item
     jsonGroup = json.loads(x.group(1))
@@ -208,6 +208,6 @@ findAndAddItem(headphone, 0)
 # remove old items
 data["items"] = data["items"][0:20]
 
-f = open("sample.json", "w")
+f = open("./cache/sample.json", "w")
 f.write(json.dumps(data, indent='\t', default = myconverter))
 f.close()
