@@ -273,7 +273,7 @@ for itemX in root.findall('item'):
 
 jsonobject = { "item" : items }
 
-f = open("out.json", "w")
+f = open("./cache/out.json", "w")
 f.write(json.dumps(jsonobject, indent=4))
 f.close()
 
@@ -307,6 +307,6 @@ for itemX in root.findall('item'):
 
 jsonobject = { "item" : items }
 
-f = open("out2.json", "w")
+f = open("./cache/out2.json", "w")
 f.write(json.dumps(jsonobject, indent=4))
 f.close()
