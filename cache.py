@@ -3,8 +3,38 @@ import requests
 import re
 import json
 import random
+import xml.etree.ElementTree as ET
 import datetime
 
+# get generic images
+def getimg(title):
+    images = {}    
+    images["fnac"] = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fnac_Logo.svg/1984px-Fnac_Logo.svg.png"
+    images["leclerc"] = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_E.Leclerc_Sans_le_texte.svg/120px-Logo_E.Leclerc_Sans_le_texte.svg.png"
+    images["veepee"] = "https://codepromo.lexpress.fr/images/224x/images/v/veepee.png"
+    images["leroy"] = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Leroy_Merlin.svg/langfr-1920px-Leroy_Merlin.svg.png"
+
+    for key in images:
+        if key in title.lower():
+            return images[key] 
+
+    return None
+
+# get generic links
+def getlink(title):
+    images = {}    
+    images["fnac"] = "https://www.fnac.com"
+    images["leclerc"] = "https://www.eleclerc.com"
+    images["veepee"] = "https://www.veepee.com"
+    images["leroy"] = "https://www.leroy.com"
+
+    for key in images:
+        if key in title.lower():
+            return images[key] 
+
+    return None
+
+# get deals
 def getFirst(url, index):
     print("GET for: " + url)
     page = requests.get(url)
@@ -185,7 +215,7 @@ def myconverter(o):
     if isinstance(o, datetime.datetime):
         return o.__str__()
 
-#main
+## deals
 
 game = 'https://www.amazon.fr/gp/goldbox?ie=UTF8&pf_rd_p=a1f294b4-3de9-4f2e-8561-165ecd4cc2af&pf_rd_r=4D301S34YY420TNQ7VME&pf_rd_s=auto-subnav-flyout-xiste-content-5&pf_rd_t=SubnavFlyout&ref_=sn_gfs_co_auto-xiste_51375011_1&deals-widget=%257B%2522version%2522%253A1%252C%2522viewIndex%2522%253A0%252C%2522presetId%2522%253A%2522deals-collection-all-deals%2522%252C%2522departments%2522%253A%255B%2522530490%2522%255D%252C%2522sorting%2522%253A%2522BY_SCORE%2522%257D'
 phone = 'https://www.amazon.fr/gp/goldbox?ie=UTF8&pf_rd_p=a1f294b4-3de9-4f2e-8561-165ecd4cc2af&pf_rd_r=4D301S34YY420TNQ7VME&pf_rd_s=auto-subnav-flyout-xiste-content-5&pf_rd_t=SubnavFlyout&ref_=sn_gfs_co_auto-xiste_51375011_1&deals-widget=%257B%2522version%2522%253A1%252C%2522viewIndex%2522%253A0%252C%2522presetId%2522%253A%2522deals-collection-all-deals%2522%252C%2522departments%2522%253A%255B%252214060661%2522%255D%252C%2522sorting%2522%253A%2522BY_SCORE%2522%257D'
@@ -210,4 +240,73 @@ data["items"] = data["items"][0:20]
 
 f = open("./cache/sample.json", "w")
 f.write(json.dumps(data, indent='\t', default = myconverter))
+f.close()
+
+
+## bon plans
+url = "https://www.bons-plans-malins.com/feed/"
+print("GET for: " + url)
+page = requests.get(url)
+
+tree = ET.ElementTree(ET.fromstring(page.content))
+#tree = ET.parse('sample.xml')
+root = tree.getroot().find('channel')
+
+default = '%Y-%m-%d %X'
+items = []
+
+for itemX in root.findall('item'):
+    print(itemX)
+    item = {}
+    item["title"] = itemX.find('title').text
+    item["pubDate"] = itemX.find('pubDate').text
+    item["date"] = datetime.datetime.strptime(item["pubDate"], '%a, %d %b %Y %H:%M:%S %z').strftime(default)
+    item["description"] = itemX.find('description').text
+    item["link"] = getlink(item["title"])
+
+    item["category"] = []
+    for category in itemX.findall('category'):
+        item["category"].append(category.text)
+
+    item["image"] = getimg(item["title"])
+    items.append(item)
+
+jsonobject = { "item" : items }
+
+f = open("out.json", "w")
+f.write(json.dumps(jsonobject, indent=4))
+f.close()
+
+##
+url = "https://www.maxdebonsplans.fr/feed/"
+print("GET for: " + url)
+page = requests.get(url)
+
+tree = ET.ElementTree(ET.fromstring(page.content))
+
+#tree = ET.parse('sample2.xml')
+root = tree.getroot().find('channel')
+
+items = []
+
+for itemX in root.findall('item'):
+    print(itemX)
+    item = {}
+    item["title"] = itemX.find('title').text
+    item["pubDate"] = itemX.find('pubDate').text
+    item["date"] = datetime.datetime.strptime(item["pubDate"], '%a, %d %b %Y %H:%M:%S %z').strftime(default)
+    item["description"] = itemX.find('description').text
+    item["link"] = getlink(item["title"])
+
+    item["category"] = []
+    for category in itemX.findall('category'):
+        item["category"].append(category.text)
+
+    item["image"] = getimg(item["title"])
+    items.append(item)
+
+jsonobject = { "item" : items }
+
+f = open("out2.json", "w")
+f.write(json.dumps(jsonobject, indent=4))
 f.close()
