@@ -1,6 +1,50 @@
 {
     "item": [
         {
+            "title": "\ud83d\udcf0 Bayard, code -5\u20ac sur tous les abonnements",
+            "pubDate": "Mon, 02 Jan 2023 13:00:00 +0000",
+            "date": "2023-01-02 13:00:00",
+            "description": "-5\u20ac sur tous les abonnements Bayard Jeunesse avec le code PRIVILEGES valable jusqu&#8217;au 31 janvier",
+            "link": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83e\uddf4 Notino, livraison offerte + promos jusqu\u2019\u00e0 -60%",
+            "pubDate": "Mon, 02 Jan 2023 11:00:00 +0000",
+            "date": "2023-01-02 11:00:00",
+            "description": "Promotions jusqu&#8217;\u00e0 -60% et livraison gratuite sans minimum d&#8217;achat sur l&#8217;e-shop NOTINO jusqu&#8217;au 8 janvier &#160;",
+            "link": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83e\uddf4 Yves Rocher, -50% sur un max de produits",
+            "pubDate": "Mon, 02 Jan 2023 10:00:00 +0000",
+            "date": "2023-01-02 10:00:00",
+            "description": "-50% sur plus de 500 produits jusqu&#8217;au 10 janvier sur l&#8217;e-shop YVES ROCHER Livraison offerte d\u00e8s 10\u20ac d&#8217;achat avec le",
+            "link": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83c\uddec\ud83c\udde7 Babbel, -55% sur l\u2019abonnement 1 an",
+            "pubDate": "Mon, 02 Jan 2023 08:45:00 +0000",
+            "date": "2023-01-02 08:45:00",
+            "description": "-55% sur l&#8217;abonnement Babbel 12 mois pour progresser dans la langue que vous souhaitez -50% sur l&#8217;abonnement \u00e0 vie -40%",
+            "link": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
             "title": "\ud83d\udc55 Under Armour, promos + code -20% extra",
             "pubDate": "Sun, 01 Jan 2023 18:18:00 +0000",
             "date": "2023-01-01 18:18:00",
@@ -49,17 +93,6 @@
             "pubDate": "Thu, 29 Dec 2022 10:13:00 +0000",
             "date": "2022-12-29 10:13:00",
             "description": "-30% d\u00e8s 2 articles achet\u00e9s parmi une s\u00e9lection Linge de maison de l&#8217;e-shop CYRILLUS jusqu&#8217;au 3 janvier",
-            "link": null,
-            "category": [
-                "#bonplan"
-            ],
-            "image": null
-        },
-        {
-            "title": "\ud83d\udecf Emma Matelas, promos + code -15% extra",
-            "pubDate": "Thu, 29 Dec 2022 08:59:59 +0000",
-            "date": "2022-12-29 08:59:59",
-            "description": "-15% suppl\u00e9mentaires sur les promotions EMMA MATELAS avec le code VPHIVER valable jusqu&#8217;au 2 janvier",
             "link": null,
             "category": [
                 "#bonplan"
@@ -258,17 +291,6 @@
             "pubDate": "Wed, 07 Dec 2022 20:15:50 +0000",
             "date": "2022-12-07 20:15:50",
             "description": "30\u20ac offerts tous les 100\u20ac d&#8217;achat sur une large s\u00e9lection de sommiers, matelas et accessoires sur l&#8217;e-shop LA COMPAGNIE DU",
-            "link": null,
-            "category": [
-                "#bonplan"
-            ],
-            "image": null
-        },
-        {
-            "title": "\ud83c\udfbc Deezer Premium, 12 mois \u00e0 -50%",
-            "pubDate": "Fri, 25 Nov 2022 07:50:25 +0000",
-            "date": "2022-11-25 07:50:25",
-            "description": "-50% sur l&#8217;abonnement Deezer Premium*, pendant 12 mois \u00e0 65,88\u20ac seulement.",
             "link": null,
             "category": [
                 "#bonplan"
