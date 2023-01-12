@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "Logitech G502 LIGHTSPEED Souris Gamer sans Fil, Capteur Gaming HERO 25K, 25 600 PPP, RGB, Ultra-L\u00e9ger, 11 Boutons Programmables, Batterie Longue Dur\u00e9e, POWERPLAY-compatible, PC - Noire",
+			"url": "/Logitech-G502-Lightspeed-Programmables-Ordinateur/dp/B07QKC4WWD?ref_=Oct_DLandingS_D_a7dbabb3_60",
+			"image": "https://m.media-amazon.com/images/I/41ReUlqua9L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-5%",
+			"price": "81.80",
+			"priceCurrency": "EUR",
+			"priceDeal": "77.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-01-12 06:20:41.756465"
+		},
+		{
 			"title": "Ecouteurs Bluetooth sans Fil, Mini Ecouteur Bluetooth 5.3 Hi-FI Son St\u00e9r\u00e9o, Ecouteurs sans Fil avec 2 HD Mic, 40H d\u2019Autonomie, Oreillette Bluetooth IPX7 \u00c9tanche Casque Bluetooth pour iOS et Android",
 			"url": "/Ecouteurs-Bluetooth-Ecouteur-dAutonomie-Oreillette/dp/B0B452B7XW",
 			"image": "https://m.media-amazon.com/images/I/41ufs3MEINL.jpg",
@@ -227,18 +239,6 @@
 			"priceDeal": "36.54",
 			"priceDealCurrency": "EUR",
 			"date": "2023-01-06 06:20:25.698239"
-		},
-		{
-			"title": "iVoler Etui pour Nintendo Switch et Switch OLED, Deluxe Housse Sacoche de Transport \u00e0 Coque Rigide Anti Choc Pochette avec Espace, Large pour Console Switch, Dock, Joy-Cons, 18 Cartouche de Jeux",
-			"url": "/iVoler-Transport-Adaptateur-Cartouche-Accessoires/dp/B079DN551K",
-			"image": "https://m.media-amazon.com/images/I/5156+uFxyyL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Vente flash\n",
-			"price": "22.78",
-			"priceCurrency": "EUR",
-			"priceDeal": "22.21",
-			"priceDealCurrency": "EUR",
-			"date": "2023-01-05 06:19:11.142172"
 		}
 	]
 }
