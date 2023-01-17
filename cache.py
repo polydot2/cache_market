@@ -236,7 +236,7 @@ findAndAddItem(headphone, 0)
 # pickHardAndAddTo(data)
 
 # remove old items
-data["items"] = data["items"][0:20]
+data["items"] = data["items"][0:30]
 
 f = open("./cache/sample.json", "w")
 f.write(json.dumps(data, indent='\t', default = myconverter))
@@ -271,7 +271,7 @@ for itemX in root.findall('item'):
     item["image"] = getimg(item["title"])
     items.append(item)
 
-jsonobject = { "item" : items }
+jsonobject = { "items" : items }
 
 f = open("./cache/out.json", "w")
 f.write(json.dumps(jsonobject, indent=4))
@@ -305,7 +305,7 @@ for itemX in root.findall('item'):
     item["image"] = getimg(item["title"])
     items.append(item)
 
-jsonobject = { "item" : items }
+jsonobject = { "items" : items }
 
 f = open("./cache/out2.json", "w")
 f.write(json.dumps(jsonobject, indent=4))
