@@ -262,7 +262,7 @@ for itemX in root.findall('item'):
     item["pubDate"] = itemX.find('pubDate').text
     item["date"] = datetime.datetime.strptime(item["pubDate"], '%a, %d %b %Y %H:%M:%S %z').strftime(default)
     item["description"] = itemX.find('description').text
-    item["link"] = getlink(item["title"])
+    item["url"] = getlink(item["title"])
 
     item["category"] = []
     for category in itemX.findall('category'):
@@ -296,7 +296,7 @@ for itemX in root.findall('item'):
     item["pubDate"] = itemX.find('pubDate').text
     item["date"] = datetime.datetime.strptime(item["pubDate"], '%a, %d %b %Y %H:%M:%S %z').strftime(default)
     item["description"] = itemX.find('description').text
-    item["link"] = getlink(item["title"])
+    item["url"] = getlink(item["title"])
 
     item["category"] = []
     for category in itemX.findall('category'):
