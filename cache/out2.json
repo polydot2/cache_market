@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "title": "\u231a Fossil, offre de la St Valentin",
+            "pubDate": "Wed, 01 Feb 2023 20:19:12 +0000",
+            "date": "2023-02-01 20:19:12",
+            "description": "-20\u20ac d\u00e8s 100\u20ac d&#8217;achat -40\u20ac d\u00e8s 150\u20ac d&#8217;achat -60\u20ac d\u00e8s 200\u20ac d&#8217;achat sur les articles non remis\u00e9s de l&#8217;e-shop FOSSIL",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83c\udfac UGC, 1 place offerte pour 5 places achet\u00e9es",
+            "pubDate": "Wed, 01 Feb 2023 14:49:47 +0000",
+            "date": "2023-02-01 14:49:47",
+            "description": "Jusqu&#8217;au 21 f\u00e9vrier, UGC vous offre une place suppl\u00e9mentaire pour l&#8217;achat d&#8217;une carte 5 places &#160;",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\uded2 Coupon Network, bons de r\u00e9duction \u00e0 imprimer",
+            "pubDate": "Wed, 01 Feb 2023 07:00:00 +0000",
+            "date": "2023-02-01 07:00:00",
+            "description": "Voici les coupons de F\u00e9vrier : un max de bons r\u00e9duction \u00e0 imprimer par COUPON NETWORK dans tous les rayons",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
             "title": "\ud83d\udcab Bouygues, box fibre + Xbox series S \u00e0 1\u20ac",
             "pubDate": "Tue, 31 Jan 2023 14:46:42 +0000",
             "date": "2023-01-31 14:46:42",
@@ -116,17 +149,6 @@
             "pubDate": "Thu, 26 Jan 2023 08:07:44 +0000",
             "date": "2023-01-26 08:07:44",
             "description": "-10% suppl\u00e9mentaires d\u00e8s 2 articles \u00e9ligibles achet\u00e9s -15% suppl\u00e9mentaires d\u00e8s 3 articles \u00e9ligibles achet\u00e9s avec le code EXTRA3 valable sur",
-            "url": null,
-            "category": [
-                "#bonplan"
-            ],
-            "image": null
-        },
-        {
-            "title": "\ud83d\udecb\ufe0f BUT, soldes + code -20% extra sur s\u00e9lection",
-            "pubDate": "Thu, 26 Jan 2023 07:00:11 +0000",
-            "date": "2023-01-26 07:00:11",
-            "description": "-20% suppl\u00e9mentaires sur une s\u00e9lection d&#8217;articles sold\u00e9s de l&#8217;e-shop BUT.fr avec le code SOLD20 valable jusqu&#8217;au 7 f\u00e9vrier",
             "url": null,
             "category": [
                 "#bonplan"
@@ -342,7 +364,7 @@
             "description": "peugeot saveurs -10% sans minimum d&#8217;achat d&#8217;une 1re commande avec le code BIENVENUE valable jusqu&#8217;au (date non pr\u00e9cis\u00e9e) pixum -10%",
             "url": null,
             "category": [
-                "0131",
+                "0228",
                 "code-promo"
             ],
             "image": null

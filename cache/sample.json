@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "HP Laptop 14s-dq0004sf PC Portable 14&#34; HD (Intel Celeron, RAM 4 Go, eMMC 64 Go, AZERTY, Windows 11 Famille en Mode S) Blanc neige, Microsoft 365 Personnel inclus pendant 1 an",
+			"url": "/HP-14s-dq0004sf-Portable-Microsoft-Personnel/dp/B0BB3CRLSL?ref_=Oct_DLandingS_D_9607ab2b_60",
+			"image": "https://m.media-amazon.com/images/I/416U0KMLG7L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-36%",
+			"price": "309.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "199.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-02-02 06:20:37.726895"
+		},
+		{
+			"title": "Blackview BV4900 Telephone Incassable D\u00e9bloqu\u00e9 4G (32Go ROM+SD-128Go, 5580mAh, \u00c9cran 5.7\"HD+IPS, 8MP+5MP, Dual SIM Smartphone \u00c9tanche) Telephone Portable Android, NFC/Face ID/OTG/GPS/2Ans de Garantie",
+			"url": "/Blackview-BV4900-Telephone-Incassable-Smartphone/dp/B09N3KX8JG",
+			"image": "https://m.media-amazon.com/images/I/518IdR3gxeL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-16%",
+			"price": "129.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "109.07",
+			"priceDealCurrency": "EUR",
+			"date": "2023-02-02 06:20:36.251080"
+		},
+		{
 			"title": "Sony Xperia 10 IV - Smartphone Android, T\u00e9l\u00e9phone Portable 6 Pouces 21:9 Wide OLED - Camera 3 Objectifs - Prise Jack 3.5 mm - 6Go RAM - 128Go Stockage - Double SIM Hybride (Violet)",
 			"url": "/Sony-Xperia-Smartphone-T%C3%A9l%C3%A9phone-Objectifs/dp/B0B1FWDSWG?ref_=Oct_DLandingS_D_1d846fc7_60",
 			"image": "https://m.media-amazon.com/images/I/31R9QBDcXML._AC_SR400,600_.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "32.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-01-23 06:19:58.041112"
-		},
-		{
-			"title": "Razer Blade 14 - PC Portable Gaming 14, QHD 165Hz - AMD Ryzen 9 6900HX, NVIDIA GeForce RTX 3080 Ti, 16GB RAM, 1 TB SSD, Chassis Aluminium, Noir - Clavier AZERTY - Chroma RGB",
-			"url": "/Razer-Blade-D8-NT-Win-11-UHD-144Hz/dp/B09Q6DKTH5?ref_=Oct_DLandingS_D_261d37d8_60",
-			"image": "https://m.media-amazon.com/images/I/31AYmGSUmaL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-15%",
-			"price": "3722.38",
-			"priceCurrency": "EUR",
-			"priceDeal": "3169.00",
-			"priceDealCurrency": "EUR",
-			"date": "2023-01-22 06:19:22.712107"
-		},
-		{
-			"title": "OnePlus: s\u00e9lection de smartphones",
-			"url": "/b?node=65980115031",
-			"image": "https://m.media-amazon.com/images/I/518+jLa8QTL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -10%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-01-22 06:19:21.355175"
 		}
 	]
 }
