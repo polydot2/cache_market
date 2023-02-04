@@ -1,6 +1,61 @@
 {
     "items": [
         {
+            "title": "\ud83d\udc55 Lafuma, soldes + code -10% extra",
+            "pubDate": "Fri, 03 Feb 2023 15:00:00 +0000",
+            "date": "2023-02-03 15:00:00",
+            "description": "-10% suppl\u00e9mentaires d\u00e8s 2 articles sold\u00e9s achet\u00e9s sur l&#8217;e-shop LAFUMA avec le code LAF-SOLDES-10 valable jusqu&#8217;au 7 f\u00e9vrier",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udcf1 R\u00e9duisez votre budget t\u00e9l\u00e9phonie mobile",
+            "pubDate": "Fri, 03 Feb 2023 13:29:56 +0000",
+            "date": "2023-02-03 13:29:56",
+            "description": "Inflation, pouvoir d&#8217;achat, &#8230; Il est grand temps de r\u00e9duire votre budget t\u00e9l\u00e9phonie mobile. Jetez un \u0153il aux offres ci-dessous,",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\ude97 Europcar, vente flash jusqu\u2019\u00e0 -30%",
+            "pubDate": "Fri, 03 Feb 2023 11:37:00 +0000",
+            "date": "2023-02-03 11:37:00",
+            "description": "Pendant 3 jours, profitez de la Vente Flash EUROPCAR et \u00e9conomisez jusqu&#8217;\u00e0 -30% offre valable jusqu&#8217;\u00e0 dimanche soir seulement pour",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83e\uddf4 Notino, code -20%",
+            "pubDate": "Fri, 03 Feb 2023 10:36:00 +0000",
+            "date": "2023-02-03 10:36:00",
+            "description": "-20% sur une s\u00e9lection de parfums sur l&#8217;e-shop NOTINO avec le code LOVE20 valable jusqu&#8217;au 5 f\u00e9vrier",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83c\uddec\ud83c\udde7 Babbel, -60% sur l\u2019abonnement \u00e0 vie, toutes langues",
+            "pubDate": "Fri, 03 Feb 2023 08:22:43 +0000",
+            "date": "2023-02-03 08:22:43",
+            "description": "-60% sur l&#8217;abonnement Babbel \u00e0 vie et toutes langues* jusqu&#8217;au 14 f\u00e9vrier 10h *anglais, allemand, espagnol, italien, portugais, su\u00e9dois, turc,",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
             "title": "\ud83d\udc59 Etam, tout \u00e0 -50% et 3e article offert",
             "pubDate": "Thu, 02 Feb 2023 19:30:00 +0000",
             "date": "2023-02-02 19:30:00",
@@ -325,10 +380,10 @@
             "title": "\u25ab\ufe0f C \u2013 D \u2013 E \u2013 F",
             "pubDate": "Sun, 01 Nov 2020 07:09:08 +0000",
             "date": "2020-11-01 07:09:08",
-            "description": "casino -15\u20ac d\u00e8s 80\u20ac sur une 1re commande avec le code NEWCAS23JANV valable jusqu&#8217;au 31/01/23 cocorico livraison offerte d\u00e8s 85\u20ac",
+            "description": "casino -15\u20ac d\u00e8s 60\u20ac sur une 1re commande avec le code NEWFEV1523 valable jusqu&#8217;au 28/02/23 -20\u20ac d\u00e8s 80\u20ac sur une",
             "url": null,
             "category": [
-                "0110",
+                "0228",
                 "code-promo"
             ],
             "image": null
