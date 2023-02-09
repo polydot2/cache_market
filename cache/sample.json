@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "GameSir G7 Manette de jeu filaire personnalis\u00e9e pour Xbox Series X|S, Xbox One, Fa\u00e7ades rempla\u00e7ables pour PC Windows 10/11, sous licence officielle \u2013 Xbox",
+			"url": "/GameSir-G7-personnalis%C3%A9e-rempla%C3%A7ables-officielle/dp/B0BM9HRCCV",
+			"image": "https://m.media-amazon.com/images/I/41whY-ZZzHL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-17%",
+			"price": "59.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "49.71",
+			"priceDealCurrency": "EUR",
+			"date": "2023-02-09 06:22:03.931390"
+		},
+		{
 			"title": "zihnic Casque Bluetooth Supra-aural Pliable sans Fil et Filaire Micro SD/TF, FM pour t\u00e9l\u00e9phone Portable, PC, Cache-Oreilles Doux et Poids l\u00e9ger pour Une Utilisation prolong\u00e9e (Noir/Orange)",
 			"url": "/zihnic-Bluetooth-Supra-aural-Cache-Oreilles-Utilisation/dp/B0BFB9SYJR",
 			"image": "https://m.media-amazon.com/images/I/41uuOL+TCiL.jpg",
@@ -347,18 +359,6 @@
 			"priceDeal": "27.36",
 			"priceDealCurrency": "EUR",
 			"date": "2023-01-28 06:19:11.775160"
-		},
-		{
-			"title": "S\u00e9lection d'ordinateurs portables et tablettes",
-			"url": "/deal/f8d4edf2?showVariations=true",
-			"image": "https://m.media-amazon.com/images/I/71hNb1VUZIL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -25%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-01-28 06:19:11.336944"
 		}
 	]
 }
