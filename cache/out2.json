@@ -1,10 +1,32 @@
 {
     "items": [
         {
-            "title": "\ud83e\uddf4 Yves Rocher, 4 bains-douche 15\u20ac + 1 cadeau offert",
-            "pubDate": "Wed, 15 Feb 2023 20:30:00 +0000",
-            "date": "2023-02-15 20:30:00",
-            "description": "Kit contenant 4 bains douches pour 15\u20ac seulement 1 Cr\u00e8me Mains Framboise &#38; Menthe Poivr\u00e9e offerte",
+            "title": "\ud83d\udc5a Cyrillus, prix doux et -10% extra",
+            "pubDate": "Fri, 17 Feb 2023 13:17:00 +0000",
+            "date": "2023-02-17 13:17:00",
+            "description": "-10% suppl\u00e9mentaires d\u00e8s 2 articles achet\u00e9s parmi la s\u00e9lection Prix Doux de l&#8217;Hiver de l&#8217;e-shop CYRILLUS jusqu&#8217;au 20 f\u00e9vrier",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc55 Under Armour, code -25% sur tout",
+            "pubDate": "Fri, 17 Feb 2023 11:55:00 +0000",
+            "date": "2023-02-17 11:55:00",
+            "description": "-25% y compris sur l&#8217;outlet de l&#8217;e-shop UNDER ARMOUR avec le code WINTER25 valable jusqu&#8217;au 26 f\u00e9vrier sauf Curry collection",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc55 King of Wear, liquidation d\u2019hiver jusqu\u2019\u00e0 -70%",
+            "pubDate": "Fri, 17 Feb 2023 10:43:48 +0000",
+            "date": "2023-02-17 10:43:48",
+            "description": "Liquidation d&#8217;Hiver jusqu&#8217;\u00e0 -70% sur l&#8217;e-shop KING OF WEAR jusqu&#8217;au 3 mars",
             "url": null,
             "category": [
                 "#bonplan"
@@ -285,11 +307,10 @@
             "title": "\u25ab\ufe0f T \u2013 U \u2013 V \u2013 W \u2013 X \u2013 Y \u2013 Z",
             "pubDate": "Sun, 01 Nov 2020 07:03:33 +0000",
             "date": "2020-11-01 07:03:33",
-            "description": "titits -5\u20ac sur une 1re commande avec le code PREMIEREFOIS valable jusqu&#8217;au 31/12/23 toner express -5% avec le code TE-512017",
+            "description": "timberland -10% d\u00e8s 160\u20ac avec le code AFFTBLEU10 valable jusqu&#8217;au 30/05/23 titits -5\u20ac sur une 1re commande avec le code",
             "url": null,
             "category": [
-                "0207",
-                "1231",
+                "0530",
                 "code-promo"
             ],
             "image": null
