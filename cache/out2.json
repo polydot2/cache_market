@@ -1,6 +1,50 @@
 {
     "items": [
         {
+            "title": "\ud83e\uddf4 The Body Shop,  un Gel Douche offert d\u00e8s 39\u20ac",
+            "pubDate": "Sat, 18 Feb 2023 15:58:39 +0000",
+            "date": "2023-02-18 15:58:39",
+            "description": "Gel douche Bien-\u00catre (valeur de 12\u20ac) offert automatiquement d\u00e8s 39\u20ac d&#8217;achat Livraison point relais offerte d\u00e8s 35\u20ac sur l&#8217;e-shop THE",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\u2744\ufe0f Picard, code -10\u20ac d\u00e8s 30\u20ac",
+            "pubDate": "Sat, 18 Feb 2023 15:51:15 +0000",
+            "date": "2023-02-18 15:51:15",
+            "description": "-10\u20ac d\u00e8s 30\u20ac d&#8217;achat sur l&#8217;e-shop PICARD.fr avec le code COUPON23 valable jusqu&#8217;au 26 f\u00e9vrier pour les membres Picard&#38;Nous (inscription",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc76 Vertbaudet, livraison offerte",
+            "pubDate": "Sat, 18 Feb 2023 13:56:51 +0000",
+            "date": "2023-02-18 13:56:51",
+            "description": "Livraison offerte sans minimum d&#8217;achat sur l&#8217;e-shop VERBAUDET jusqu&#8217;\u00e0 dimanche",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc0a Lacoste, vente priv\u00e9e 48h sur Veepee",
+            "pubDate": "Sat, 18 Feb 2023 10:37:39 +0000",
+            "date": "2023-02-18 10:37:39",
+            "description": "Vente priv\u00e9e LACOSTE sur Veepee les samedi 18 et dimanche 19 f\u00e9vrier seulement",
+            "url": "https://www.veepee.com",
+            "category": [
+                "#bonplan"
+            ],
+            "image": "https://codepromo.lexpress.fr/images/224x/images/v/veepee.png"
+        },
+        {
             "title": "\ud83d\udc5a Cyrillus, prix doux et -10% extra",
             "pubDate": "Fri, 17 Feb 2023 13:17:00 +0000",
             "date": "2023-02-17 13:17:00",
