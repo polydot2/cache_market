@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "Logitech Brand Week",
+			"url": "/deal/770f1351?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/51ykyMpJLZL.png",
+			"imageExt": "png",
+			"promotion": "Jusqu'\u00e0 -26%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-02-20 06:21:58.232374"
+		},
+		{
 			"title": "ASUS TUF Gaming H770-PRO WiFi",
 			"url": "/ASUS-TUF-Gaming-H770-PRO-WiFi/dp/B0BNQ99PNZ",
 			"image": "https://m.media-amazon.com/images/I/51M7+CS85GL.jpg",
@@ -347,18 +359,6 @@
 			"priceDeal": "99.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-02-06 06:21:24.321046"
-		},
-		{
-			"title": "Pdp Filaire Manette Electric Carbon pour Xbox Series X|S, Gamepad, Video Game, Gaming Manette, Xbox One, Licence Officiel - Series",
-			"url": "/Filaire-Manette-Electric-Gamepad-Officiel/dp/B0B3VSTQWG?ref_=Oct_DLandingS_D_159032b4_60",
-			"image": "https://m.media-amazon.com/images/I/41hjS5GDjXL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-8%",
-			"price": "32.49",
-			"priceCurrency": "EUR",
-			"priceDeal": "29.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-02-06 06:21:22.955781"
 		}
 	]
 }
