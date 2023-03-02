@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "Ubisoft: Mario, the lapins cretin sparks of hope - Edition Cosmique Switch",
+			"url": "/LAPINS-CR%C3%89TINS-SPARKS-%C3%89DITION-COSMIQUE/dp/B0B5DWYWRM",
+			"image": "https://m.media-amazon.com/images/I/51-7pJ6Ye7L.jpg",
+			"imageExt": "jpg",
+			"promotion": "-14%",
+			"price": "35.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "30.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-02 06:22:00.383271"
+		},
+		{
 			"title": "FIFA 23 SAM KERR EDITION PS5 | Fran\u00e7ais",
 			"url": "/FIFA-SAM-KERR-PS5-Fran%C3%A7ais/dp/B0B6CDVGVQ?ref_=Oct_DLandingS_D_2c274b20_60",
 			"image": "https://m.media-amazon.com/images/I/51NWZjADTIL._AC_SR400,600_.jpg",
@@ -347,18 +359,6 @@
 			"priceDeal": "99.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-02-17 06:21:44.691435"
-		},
-		{
-			"title": "KDD Chargeur Joy-Con pour Nintendo Switch/Switch OLED, Station de Charge pour Manette Nintendo Switch avec 8 Emplacements de Jeu et Indicateur LED",
-			"url": "/KDD-Station-compatible-Nintendo-emplacements/dp/B08FX5QKGD",
-			"image": "https://m.media-amazon.com/images/I/51iS116+HwL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-15%",
-			"price": "19.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "16.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-02-16 06:21:21.855699"
 		}
 	]
 }
