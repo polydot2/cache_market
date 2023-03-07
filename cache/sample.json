@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "LENOVO Tab P11 Plus TB-J616F, Gris (Platinum Grey)",
+			"url": "/LENOVO-Tab-P11-Plus-TB-J616F/dp/B09DL4L9GS?ref_=Oct_DLandingS_D_5a6dc67a_60",
+			"image": "https://m.media-amazon.com/images/I/41uTnB-g3+L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-19%",
+			"price": "247.53",
+			"priceCurrency": "EUR",
+			"priceDeal": "199.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-07 06:21:45.108705"
+		},
+		{
+			"title": "Best of Turtle Beach",
+			"url": "/Turtle-Beach-Casque-Gaming-Nintendo/dp/B07NQX1J99",
+			"image": "https://m.media-amazon.com/images/I/41ywx5-l-EL.jpg",
+			"imageExt": "jpg",
+			"promotion": "Jusqu'\u00e0 -23%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-03-07 06:21:43.725650"
+		},
+		{
+			"title": "Meta Quest 256Gb",
+			"url": "/Oculus-Quest-virtuelle-tout-en-g%C3%A9n%C3%A9ration/dp/B08HJKGKGG",
+			"image": "https://m.media-amazon.com/images/I/41UITL88+TL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-13%",
+			"price": "549.87",
+			"priceCurrency": "EUR",
+			"priceDeal": "479.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-07 06:21:43.154517"
+		},
+		{
 			"title": "DOOGEE S41 Pro 2023 Telephone",
 			"url": "/T%C3%A9l%C3%A9phones-Incassables-DOOGEE-Incassable-Smarthphone/dp/B0BPBXJXQF",
 			"image": "https://m.media-amazon.com/images/I/51pyrxIuSAL.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "",
 			"priceDealCurrency": "",
 			"date": "2023-02-21 06:21:28.382438"
-		},
-		{
-			"title": "Logitech Brand Week",
-			"url": "/deal/770f1351?showVariations=true",
-			"image": "https://m.media-amazon.com/images/I/51ykyMpJLZL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -26%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-02-20 06:21:58.232374"
-		},
-		{
-			"title": "ASUS TUF Gaming H770-PRO WiFi",
-			"url": "/ASUS-TUF-Gaming-H770-PRO-WiFi/dp/B0BNQ99PNZ",
-			"image": "https://m.media-amazon.com/images/I/51M7+CS85GL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-5%",
-			"price": "259.97",
-			"priceCurrency": "EUR",
-			"priceDeal": "246.88",
-			"priceDealCurrency": "EUR",
-			"date": "2023-02-19 06:19:52.950948"
-		},
-		{
-			"title": "Nintendo Switch papier Mario: The Origami King",
-			"url": "/Nintendo-NSW-Paper-Mario-Origami/dp/B088MVYJRS",
-			"image": "https://m.media-amazon.com/images/I/51cJ9hfsCwL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-24%",
-			"price": "48.49",
-			"priceCurrency": "EUR",
-			"priceDeal": "36.94",
-			"priceDealCurrency": "EUR",
-			"date": "2023-02-19 06:19:50.601567"
 		}
 	]
 }
