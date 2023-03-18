@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "MSI Katana GF66 12UGSZOK-1033FR : Intel Core I7-12700H - 16GB DDR5 - SSD 1TB NvMe - Nvidia RTX3070Ti 8GB - 15,6&#34; Full HD 144Hz - Windows 11 Famille - Clavier Azerty ( Fran\u00e7ais)",
+			"url": "/MSI-Katana-GF66-12UGSZOK-1033FR-I7-12700H/dp/B0BB82DM7D?ref_=Oct_DLandingS_D_55f7feb3_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31CbQfE9IEL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-5%",
+			"price": "1689.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "1599.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-18 06:19:34.506550"
+		},
+		{
+			"title": "VEGER Batterie Externe 30000mAh Batterie Portable Charge Rapide PD 20W Max Power Bank USB C avec 4 Sorties et 2 Entr\u00e9es pour iPhone 13 12 Samsung S21 S20 S22 Huawei Xiaomi",
+			"url": "/VEGER-Batterie-30000mAh-Compatible-T%C3%A9l%C3%A9phones/dp/B097P345BC",
+			"image": "https://m.media-amazon.com/images/I/31zXoL1jQlL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-5%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-03-18 06:19:33.635986"
+		},
+		{
+			"title": "Assassin&#39;s Creed",
+			"url": "/Ubisoft-3307215803400-Assassins-Creed-Unity/dp/B00V5ZJEC4?ref_=Oct_DLandingS_D_b04db061_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61h2ZY-myML._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-55%",
+			"price": "19.90",
+			"priceCurrency": "EUR",
+			"priceDeal": "8.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-18 06:19:33.055599"
+		},
+		{
 			"title": "Lenovo IdeaPad 1 15IGL7 - Ordinateur Portable 15.6\u2019\u2019 FHD (Intel Pentium Silver N5030, RAM 8Go, 256Go SSD, Intel UHD Graphics 605, Windows 11 Home en Mode S)",
 			"url": "/Lenovo-IdeaPad-15IGL7-Ordinateur-Portable/dp/B0B88CQWD9?ref_=Oct_DLandingS_D_5a6dc67a_60",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41eZWaJAB+L._AC_SR400,600_.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "72.27",
 			"priceDealCurrency": "EUR",
 			"date": "2023-03-09 06:22:40.461073"
-		},
-		{
-			"title": "Soundcore by Anker Life Q35 Casque Bluetooth R\u00e9duction de Bruit Active, Casque Audio sans Fil MultiMode LDAC Hi-Res, 40H Autonomie, Port\u00e9e Confortable, Appels Clairs pour Les Maison, Travail, Voyages",
-			"url": "/Soundcore-Bluetooth-R%C3%A9duction-MultiMode-Confortable/dp/B09FPCZ318",
-			"image": "https://m.media-amazon.com/images/I/31FHupXn8eL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Vente flash\n",
-			"price": "94.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "92.59",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-08 06:21:44.275293"
-		},
-		{
-			"title": "DOOGEE S99 Telephone Portable Incassable [2023] 6.3\" FHD+ 15GB (8GB+7GB) et 128GB Smartphone Incassable, Triple cam\u00e9ra 108MP+64MP+16MP, Android 12.0, 6000mAh 33W, IP68/IP69K/NFC - Or",
-			"url": "/DOOGEE-S99-Telephone-Incassable-Smartphone/dp/B0BNBFPKZV",
-			"image": "https://m.media-amazon.com/images/I/41y3VQXSv4L.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -15%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-03-08 06:21:42.708250"
-		},
-		{
-			"title": "2022 Upgrade Manette Switch, Manette sans Fil pour Switch/Switch Lite/Switch OLED, Nintendo Manette Switch Pro avec One Key Wake UP/Capture D'\u00c9CRAN/Turbo Adjustable/Vibration R\u00e9glable/ 6 Axes",
-			"url": "/Diswoe-Manettes-Manette-Nintendo-Bluetooth/dp/B07TRQH45S",
-			"image": "https://m.media-amazon.com/images/I/619j3LEMuXL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Vente flash\n",
-			"price": "23.47",
-			"priceCurrency": "EUR",
-			"priceDeal": "22.88",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-08 06:21:41.954727"
 		}
 	]
 }
