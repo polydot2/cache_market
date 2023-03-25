@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "Microsoft - Pack Surface Pro 7+ (Windows 11, \u00e9cran Tactile 13&#39;&#39;, 16 Go RAM, 256 Go SSD, Intel Core i5) Ordinateur Portable Platine + Clavier AZERTY Noir",
+			"url": "/Microsoft-Surface-Windows-Ordinateur-Portable/dp/B0BSXTBZWS?ref_=Oct_DLandingS_D_9a15ab82_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31yaDzG1lqL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-43%",
+			"price": "1748.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "999.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-25 06:18:55.129304"
+		},
+		{
+			"title": "Samsung Galaxy S23 Ultra Smartphone Android 5G, 512 Go, Chargeur Secteur Rapide 25W Inclus [Exclusivit\u00e9 Amazon], Smartphone d\u00e9verrouill\u00e9, Noir, Version FR",
+			"url": "/Samsung-Smartphone-Chargeur-Exclusivit%C3%A9-d%C3%A9verrouill%C3%A9/dp/B0BQWD6BPW?ref_=Oct_DLandingS_D_965f1e62_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41G7vmFCAKL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-6%",
+			"price": "1599.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "1499.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-25 06:18:54.055012"
+		},
+		{
+			"title": "Meta Quest Pro",
+			"url": "/Meta-Quest-Pro/dp/B09FQBZVRF",
+			"image": "https://m.media-amazon.com/images/I/211Lktm4ZVL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-33%",
+			"price": "1799.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "1199.0",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-25 06:18:51.642098"
+		},
+		{
 			"title": "\u00c9couteurs Bluetooth 5.3 \u00c9couteurs sans Fil St\u00e9r\u00e9o HiFi IPX7 Sport \u00c9tanche Contr\u00f4le lntelligent Ecouteur Bluetooth Dur\u00e9e de 42H Appairage Automatique Oreillette pour iPhone Android Samsung",
 			"url": "/%C3%89couteurs-Bluetooth-lntelligent-Automatique-Oreillette/dp/B0BS16VF7K",
 			"image": "https://m.media-amazon.com/images/I/41uOOuMzLCL.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "756.78",
 			"priceDealCurrency": "EUR",
 			"date": "2023-03-16 06:21:05.069244"
-		},
-		{
-			"title": "realme GT Neo 3 80 W - 8+256GB 5G Smartphone,Display Super OLED 120Hz, MTK Dimensity 8100 5 nm, Charge SuperDart 80\u00a0W,Dual Sim,NFC,Asphalt Black RMX3561",
-			"url": "/realme-Neo-Smartphone-Dimensity-80/dp/B09ZTXR8XK?ref_=Oct_DLandingS_D_bb11b09a_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41+32jDGxqL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-20%",
-			"price": "498.50",
-			"priceCurrency": "EUR",
-			"priceDeal": "399.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-16 06:21:03.962978"
-		},
-		{
-			"title": "Assassin&#39;s Creed Valhalla - Limited Edition - Version PS5 incluse",
-			"url": "/Assassins-Creed-Valhalla-Limited-Version/dp/B087VH6WZ5?ref_=Oct_DLandingS_D_b04db061_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51NVd38JbLL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-65%",
-			"price": "45.12",
-			"priceCurrency": "EUR",
-			"priceDeal": "15.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-16 06:21:02.605592"
-		},
-		{
-			"title": "Ecouteurs Bluetooth Sans Fil, Oreillettes Bluetooth 5.3 avec HiFi St\u00e9r\u00e9o e 2 R\u00e9duction de Bruit Mic, Casque avec \u00c9cran LCD 30h Dur\u00e9e de Lecture, Contr\u00f4le Tactile IP7 Etanche Sport \u00c9couteur iOS Android",
-			"url": "/Ecouteurs-Bluetooth-Oreillettes-R%C3%A9duction-Contr%C3%B4le/dp/B0BGXJ6LJZ",
-			"image": "https://m.media-amazon.com/images/I/41GGHfTcnvL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-23%",
-			"price": "29.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "23.01",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-15 06:20:55.772246"
 		}
 	]
 }
