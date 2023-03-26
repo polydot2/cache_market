@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "Lenovo Ideacentre Gaming 5 17ACN7 - Ordinateur de Bureau (AMD Ryzen 5 5600G, 8Go RAM, 512Go SSD, NVIDIA GeForce RTX 3050-12Go, Windows 11 Home) Clavier AZERTY (Fran\u00e7ais) et Souris USB - Noir",
+			"url": "/Lenovo-Ideacentre-Gaming-17ACN7-Ordinateur/dp/B0BGSWC6G1?ref_=Oct_DLandingS_D_f49aad7b_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41S2nH+c7SL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-8%",
+			"price": "1199.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "1099.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-26 06:18:49.391225"
+		},
+		{
+			"title": "SteelSeries Apex 7 TKL - Clavier de Gaming M\u00e9canique \u2013 Forme Compacte \u2013 \u00c9cran OLED Display \u2013 Switchs Rouges - Agencement Fran\u00e7ais AZERTY",
+			"url": "/SteelSeries-Apex-TKL-m%C3%A9canique-Agencement/dp/B07S6PW3K9?ref_=Oct_DLandingS_D_499fbe25_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51xyJ9JxyIL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-15%",
+			"price": "129.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "109.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-03-26 06:18:48.225953"
+		},
+		{
 			"title": "Microsoft - Pack Surface Pro 7+ (Windows 11, \u00e9cran Tactile 13&#39;&#39;, 16 Go RAM, 256 Go SSD, Intel Core i5) Ordinateur Portable Platine + Clavier AZERTY Noir",
 			"url": "/Microsoft-Surface-Windows-Ordinateur-Portable/dp/B0BSXTBZWS?ref_=Oct_DLandingS_D_9a15ab82_60",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31yaDzG1lqL._AC_SR400,600_.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "",
 			"priceDealCurrency": "",
 			"date": "2023-03-17 06:19:22.631495"
-		},
-		{
-			"title": "\u00c9couteurs Bluetooth sans Fil Sport, \u00c9couteur sans Fil IP7 \u00c9tanche, Oreillette Bluetooth 5.3 sans Fil avec Dual Mic, Hi-FI St\u00e9r\u00e9o 40 Heures avec Micro Bo\u00eete de Charge Casque Bluetooth pour Jogging Gym",
-			"url": "/%C3%89couteurs-Bluetooth-%C3%89couteur-%C3%89tanche-Oreillette/dp/B0BFXCHRPY",
-			"image": "https://m.media-amazon.com/images/I/41HYzqd1euL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Vente flash\n",
-			"price": "25.49",
-			"priceCurrency": "EUR",
-			"priceDeal": "24.85",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-16 06:21:05.590923"
-		},
-		{
-			"title": "Victus by HP 15-fa0002sf PC Portable Gaming 15.6&#34; FHD IPS (Intel Core i5-12450H, RAM 16 Go, SSD 512 Go, NVIDIA GeForce RTX 3050, AZERTY, Windows 11) Argent mica",
-			"url": "/HP-15-fa0002sf-Portable-i5-12450H-GeForce/dp/B0BB3BH333?ref_=Oct_DLandingS_D_638ff72b_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41G+ecnxGjL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-5%",
-			"price": "799.00",
-			"priceCurrency": "EUR",
-			"priceDeal": "756.78",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-16 06:21:05.069244"
 		}
 	]
 }
