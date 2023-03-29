@@ -1,10 +1,33 @@
 {
     "items": [
         {
-            "title": "\ud83d\udecd\ufe0f Amazon, 2 jours de ventes flash de Printemps",
-            "pubDate": "Mon, 27 Mar 2023 16:06:55 +0000",
-            "date": "2023-03-27 16:06:55",
-            "description": "Amazon propose ses ventes flash du Printemps, du 27 mars 18h au 29 mars minuit &#160; &#160;",
+            "title": "\ud83d\udcf1 Fnac, smartphone Google Pixel 6a 5G au meilleur prix du net",
+            "pubDate": "Tue, 28 Mar 2023 16:20:00 +0000",
+            "date": "2023-03-28 16:20:00",
+            "description": "Meilleur prix chez FNAC.com sur l&#8217;excellent smartphone Google Pixel 6a 5G \u00e0 229\u20ac tenant compte de 100\u20ac de reprise d&#8217;un",
+            "url": "https://www.fnac.com",
+            "category": [
+                "#bonplan"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fnac_Logo.svg/1984px-Fnac_Logo.svg.png"
+        },
+        {
+            "title": "\ud83d\udcab Bouygues, box fibre + console Xbox series S \u00e0 1\u20ac",
+            "pubDate": "Tue, 28 Mar 2023 13:15:00 +0000",
+            "date": "2023-03-28 13:15:00",
+            "description": "Bouygues Telecom propose un pack in\u00e9dit avec : une console Xbox Series S \u00e0 1\u20ac au lieu de 338\u20ac la",
+            "url": null,
+            "category": [
+                "#bonplan",
+                "forfait"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc55 King of Wear, code -20% extra",
+            "pubDate": "Tue, 28 Mar 2023 09:30:00 +0000",
+            "date": "2023-03-28 09:30:00",
+            "description": "-20% suppl\u00e9mentaires sans minimum d&#8217;achat sur les nouveaut\u00e9s de l&#8217;e-shop KING OF WEAR avec le code HappyA22 valable jusqu&#8217;au 2",
             "url": null,
             "category": [
                 "#bonplan"
@@ -12,10 +35,32 @@
             "image": null
         },
         {
-            "title": "\ud83e\uddf4 L\u00e9a Nature, code flash -20% + livraison offerte",
-            "pubDate": "Mon, 27 Mar 2023 15:00:00 +0000",
-            "date": "2023-03-27 15:00:00",
-            "description": "-20% et livraison offerte sur tout l&#8217;e-shop LEA NATURE avec le code BIOTYNIGHT valable jusqu&#8217;\u00e0 demain 6h &#160;",
+            "title": "\ud83c\udfc9 Ruckfield, -50% sur l\u2019outlet",
+            "pubDate": "Tue, 28 Mar 2023 08:30:00 +0000",
+            "date": "2023-03-28 08:30:00",
+            "description": "-50% sur tout le d\u00e9stockage (outlet) de l&#8217;e-shop RUCKFIELD jusqu&#8217;au 3 avril",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc5f i-Run, code jusqu\u2019\u00e0 -20%",
+            "pubDate": "Tue, 28 Mar 2023 07:00:00 +0000",
+            "date": "2023-03-28 07:00:00",
+            "description": "-20% sur les nouveaut\u00e9s chaussures et v\u00eatements -10% suppl\u00e9mentaires sur les bons plans et d\u00e9stockage avec le code 42KM valable",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udecd\ufe0f Amazon, 2 jours de ventes flash de Printemps",
+            "pubDate": "Mon, 27 Mar 2023 16:06:55 +0000",
+            "date": "2023-03-27 16:06:55",
+            "description": "Amazon propose ses ventes flash du Printemps, du 27 mars 18h au 29 mars minuit &#160; &#160;",
             "url": null,
             "category": [
                 "#bonplan"
@@ -38,17 +83,6 @@
             "pubDate": "Mon, 27 Mar 2023 11:48:45 +0000",
             "date": "2023-03-27 11:48:45",
             "description": "Tentez de gagner un ch\u00e8que-cadeau AMAZON d&#8217;une valeur de 20\u20ac. Pour participer, il suffit d\u2019\u00e9crire un nouveau commentaire dans le",
-            "url": null,
-            "category": [
-                "#bonplan"
-            ],
-            "image": null
-        },
-        {
-            "title": "\ud83d\udc62 Sarenza, s\u00e9lection de -50% \u00e0 -70%",
-            "pubDate": "Mon, 27 Mar 2023 10:52:00 +0000",
-            "date": "2023-03-27 10:52:00",
-            "description": "Vente flash de Printemps chez Sarenza, retrouvez cette s\u00e9lection d&#8217;articles entre -50% et -70%. Fin des ventes le 28 mars.",
             "url": null,
             "category": [
                 "#bonplan"
