@@ -1,6 +1,50 @@
 {
     "items": [
         {
+            "title": "\ud83e\uddf4 S\u00e9phora, -25% sur s\u00e9lection",
+            "pubDate": "Sat, 01 Apr 2023 14:54:00 +0000",
+            "date": "2023-04-01 14:54:00",
+            "description": "-25% d\u00e8s 49\u20ac d&#8217;achat parmi une s\u00e9lection de + de 700 produits sur l&#8217;e-shop SEPHORA jusqu&#8217;au 25 avril",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udd25 Fnac (adh\u00e9rents), ce WE seulement : 10\u20ac offerts tous les 100\u20ac d\u2019achat",
+            "pubDate": "Sat, 01 Apr 2023 13:52:01 +0000",
+            "date": "2023-04-01 13:52:01",
+            "description": "10\u20ac offerts tous les 100\u20ac d&#8217;achat avec le code POISSON valable pour les adh\u00e9rents jusqu&#8217;\u00e0 lundi 4 avril 13h (hors",
+            "url": "https://www.fnac.com",
+            "category": [
+                "#bonplan"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fnac_Logo.svg/1984px-Fnac_Logo.svg.png"
+        },
+        {
+            "title": "\u231a Fossil, code flash jusqu\u2019\u00e0 -60\u20ac extra sur outlet",
+            "pubDate": "Sat, 01 Apr 2023 09:30:00 +0000",
+            "date": "2023-04-01 09:30:00",
+            "description": "-15\u20ac suppl\u00e9mentaires d\u00e8s 75\u20ac d&#8217;achat avec le code OUTLET -25\u20ac suppl\u00e9mentaires d\u00e8s 100\u20ac d&#8217;achat avec le code OUTLET -45\u20ac suppl\u00e9mentaires",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83c\udfbc Deezer Premium ou Famille, 3 mois offerts sans engagement",
+            "pubDate": "Sat, 01 Apr 2023 08:00:00 +0000",
+            "date": "2023-04-01 08:00:00",
+            "description": "3 mois d\u2019abonnement \u00e0 Deezer Premium ou Famille gratuits, offres r\u00e9serv\u00e9es aux nouveaux clients* Deezer. Sans engagement. A saisir avant",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
             "title": "\ud83c\udf40 Qui a gagn\u00e9 le ch\u00e8que-cadeau AMAZON de 20\u20ac ?",
             "pubDate": "Fri, 31 Mar 2023 19:00:00 +0000",
             "date": "2023-03-31 19:00:00",
@@ -17,17 +61,6 @@
             "pubDate": "Fri, 31 Mar 2023 16:05:24 +0000",
             "date": "2023-03-31 16:05:24",
             "description": "-20\u20ac d\u00e8s 199\u20ac d\u2019achat avec le code SUPER20 -50\u20ac d\u00e8s 499\u20ac d\u2019achat avec le code SUPER50 -100\u20ac d\u00e8s 999\u20ac d\u2019achat",
-            "url": null,
-            "category": [
-                "#bonplan"
-            ],
-            "image": null
-        },
-        {
-            "title": "\ud83d\udcda Op\u00e9ration 48H BD, une douzaine de BD \u00e0 3\u20ac l\u2019unit\u00e9",
-            "pubDate": "Fri, 31 Mar 2023 12:00:00 +0000",
-            "date": "2023-03-31 12:00:00",
-            "description": "Op\u00e9ration 48H BD, une douzaine de BD \u00e0 3\u20ac l&#8217;unit\u00e9 dans votre librairie les 31 mars et 1 avril",
             "url": null,
             "category": [
                 "#bonplan"
@@ -348,10 +381,10 @@
             "title": "\u25ab\ufe0f C \u2013 D \u2013 E \u2013 F",
             "pubDate": "Sun, 01 Nov 2020 07:09:08 +0000",
             "date": "2020-11-01 07:09:08",
-            "description": "casino -15\u20ac d\u00e8s 60\u20ac sur une 1re commande avec le code NEWAFMARS1523 valable jusqu&#8217;au 31/03/23 -20% d\u00e8s 80\u20ac sur une",
+            "description": "copytop -10% sur une 1re commande avec le code NEW10 valable jusqu&#8217;au (date non pr\u00e9cis\u00e9e) cosmoparis -10% sur une 1re",
             "url": null,
             "category": [
-                "0331",
+                "0630",
                 "code-promo"
             ],
             "image": null
@@ -363,7 +396,7 @@
             "description": "generale d&#8217;optique -10\u20ac d\u00e8s 50\u20ac d&#8217;une 1re commande avec le code BIENVENUE valable jusqu&#8217;au (date non pr\u00e9cis\u00e9e) gorilla sports -4%",
             "url": null,
             "category": [
-                "0320",
+                "0331",
                 "code-promo"
             ],
             "image": null
@@ -387,7 +420,7 @@
             "description": "peugeot saveurs -10% sans minimum d&#8217;achat d&#8217;une 1re commande avec le code BIENVENUE valable jusqu&#8217;au (date non pr\u00e9cis\u00e9e) pixum -10%",
             "url": null,
             "category": [
-                "0331",
+                "0630",
                 "code-promo"
             ],
             "image": null
