@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "Les Jours Chromebook: s\u00e9lection d'ordinateurs portables Chromebook",
+			"url": "/deal/6f8d72ca?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/71VqyfICCdL.png",
+			"imageExt": "png",
+			"promotion": "Jusqu'\u00e0 -26%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-04-07 06:19:17.764444"
+		},
+		{
+			"title": "Samsung Galaxy S23 Ultra Smartphone Android 5G, 512 Go, Chargeur Secteur Rapide 25W Inclus [Exclusivit\u00e9 Amazon], Smartphone d\u00e9verrouill\u00e9, Noir, Version FR",
+			"url": "/Samsung-Smartphone-Chargeur-Exclusivit%C3%A9-d%C3%A9verrouill%C3%A9/dp/B0BQWD6BPW?ref_=Oct_DLandingS_D_ff118e71_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41G7vmFCAKL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-5%",
+			"price": "1499.06",
+			"priceCurrency": "EUR",
+			"priceDeal": "1419.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-07 06:19:17.169088"
+		},
+		{
+			"title": "PlayStation: s\u00e9lection de jeux vid\u00e9o",
+			"url": "/deal/decd4cd4?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/71qA7yk7PAL.png",
+			"imageExt": "png",
+			"promotion": "Jusqu'\u00e0 -40%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-04-07 06:19:15.257535"
+		},
+		{
 			"title": "Bose; s\u00e9lection de produits audio",
 			"url": "/deal/68280ecb?showVariations=true",
 			"image": "https://m.media-amazon.com/images/I/41tHHWcu2-L.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "1119.00",
 			"priceDealCurrency": "EUR",
 			"date": "2023-03-27 06:20:34.990060"
-		},
-		{
-			"title": "UBI SOFT FRANCE Assassin&#39;s Creed The Ezio Collection (Nintendo Switch) Noir",
-			"url": "/UBI-SOFT-FRANCE-Assassins-Collection/dp/B09HF2XPL7?ref_=Oct_DLandingS_D_97ddfbce_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51dO2+CwN9L._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-16%",
-			"price": "30.41",
-			"priceCurrency": "EUR",
-			"priceDeal": "25.49",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-27 06:20:33.565931"
-		},
-		{
-			"title": "Lenovo Ideacentre Gaming 5 17ACN7 - Ordinateur de Bureau (AMD Ryzen 5 5600G, 8Go RAM, 512Go SSD, NVIDIA GeForce RTX 3050-12Go, Windows 11 Home) Clavier AZERTY (Fran\u00e7ais) et Souris USB - Noir",
-			"url": "/Lenovo-Ideacentre-Gaming-17ACN7-Ordinateur/dp/B0BGSWC6G1?ref_=Oct_DLandingS_D_f49aad7b_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41S2nH+c7SL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-8%",
-			"price": "1199.00",
-			"priceCurrency": "EUR",
-			"priceDeal": "1099.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-26 06:18:49.391225"
-		},
-		{
-			"title": "SteelSeries Apex 7 TKL - Clavier de Gaming M\u00e9canique \u2013 Forme Compacte \u2013 \u00c9cran OLED Display \u2013 Switchs Rouges - Agencement Fran\u00e7ais AZERTY",
-			"url": "/SteelSeries-Apex-TKL-m%C3%A9canique-Agencement/dp/B07S6PW3K9?ref_=Oct_DLandingS_D_499fbe25_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51xyJ9JxyIL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-15%",
-			"price": "129.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "109.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-26 06:18:48.225953"
 		}
 	]
 }
