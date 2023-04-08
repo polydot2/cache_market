@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "TOPOSH Ordinateur Portable 10 Pouces Windows 10 PC Notebook Mini 2 Go RAM + 32 Go ROM SSD eMMC Processeur Atom X5-Z8350 Quad Core 1,44 GHz 64 Bits avec Clavier QWERTY - Blanc",
+			"url": "/TOPOSH-Ordinateur-Portable-Quad-Core-Graphique/dp/B08RJ6CHHB",
+			"image": "https://m.media-amazon.com/images/I/41J9c3gwghL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-5%",
+			"price": "199.0",
+			"priceCurrency": "EUR",
+			"priceDeal": "189.05",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-08 06:17:45.949998"
+		},
+		{
+			"title": "PlayStation, Pack console PlayStation 5 Digital\u2013 God of War Ragnarok",
+			"url": "/PlayStation-Pack-console-Digital-Ragnarok/dp/B0BJR4HTXT?ref_=Oct_DLandingS_D_decd4cd4_60",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/31-w4M5VWeL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-8%",
+			"price": "509.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "469.75",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-08 06:17:42.591590"
+		},
+		{
 			"title": "Les Jours Chromebook: s\u00e9lection d'ordinateurs portables Chromebook",
 			"url": "/deal/6f8d72ca?showVariations=true",
 			"image": "https://m.media-amazon.com/images/I/71VqyfICCdL.png",
@@ -335,30 +359,6 @@
 			"priceDeal": "159.95",
 			"priceDealCurrency": "EUR",
 			"date": "2023-03-27 06:20:36.352804"
-		},
-		{
-			"title": "LG Gram 17Z90Q-G.AA76F - PC Portable 17&#34; 1.3kg, \u00e9cran IPS 2560x1600 Format 16:10, Intel\u00ae Evo\u2122 i7, RAM 16Go, SSD 512Go NVMe, Iris\u00aeXE Graphics, Thunderbolt\u2122 4, Windows 11 Home, Clavier AZERTY, Gris",
-			"url": "/LG-Gram-17Z90Q-G-AA76F-2560x1600-ThunderboltTM/dp/B09X5PMM2Z?ref_=Oct_DLandingS_D_42aa5a07_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41MsH3EhlCL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-9%",
-			"price": "1499.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "1369.94",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-27 06:20:35.906082"
-		},
-		{
-			"title": "Samsung Galaxy S23+ Smartphone Android 5G, 256 Go, Chargeur Secteur Rapide 25W Inclus [Exclusivit\u00e9 Amazon], Smartphone d\u00e9verrouill\u00e9, Noir, Version FR",
-			"url": "/Samsung-Smartphone-Chargeur-Exclusivit%C3%A9-d%C3%A9verrouill%C3%A9/dp/B0BQW9VRPG?ref_=Oct_DLandingS_D_965f1e62_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41eghIi3QwL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-8%",
-			"price": "1219.00",
-			"priceCurrency": "EUR",
-			"priceDeal": "1119.00",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-27 06:20:34.990060"
 		}
 	]
 }
