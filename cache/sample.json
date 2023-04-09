@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "HP : S\u00e9lection d'ordinateurs",
+			"url": "/deal/53b66d92?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/51AUvZlvkCL.png",
+			"imageExt": "png",
+			"promotion": "-11%",
+			"price": "785.0",
+			"priceCurrency": "EUR",
+			"priceDeal": "699.0",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-09 06:18:04.791290"
+		},
+		{
 			"title": "TOPOSH Ordinateur Portable 10 Pouces Windows 10 PC Notebook Mini 2 Go RAM + 32 Go ROM SSD eMMC Processeur Atom X5-Z8350 Quad Core 1,44 GHz 64 Bits avec Clavier QWERTY - Blanc",
 			"url": "/TOPOSH-Ordinateur-Portable-Quad-Core-Graphique/dp/B08RJ6CHHB",
 			"image": "https://m.media-amazon.com/images/I/41J9c3gwghL.jpg",
@@ -347,18 +359,6 @@
 			"priceDeal": "44.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-03-30 06:20:22.591548"
-		},
-		{
-			"title": "Shokz Openrun Pro, Casque Conduction Osseuse \u00c9couteur Bluetooth Sport sans Fil, Casque Audio Con\u00e7u pour Le Sport,Oreilles Libres Confort",
-			"url": "/Conduction-%C3%89couteur-Bluetooth-Oreilles-VTT%E3%80%902022/dp/B09BVYK4J2",
-			"image": "https://m.media-amazon.com/images/I/21DgqTu1pYL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-16%",
-			"price": "189.95",
-			"priceCurrency": "EUR",
-			"priceDeal": "159.95",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-27 06:20:36.352804"
 		}
 	]
 }
