@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "HUAWEI FreeBuds Pro 2 TWS Ecouteurs Bluetooth sans Fil,Con\u00e7u avec Devialet,Certifi\u00e9 HWA et Hi-Res Wireless,Double Haut-Parleur True Sound,R\u00e9duction de Bruit Intelligente jusqu&#39;\u00e0 47 DB,iOS et Android",
+			"url": "/HUAWEI-Ecouteurs-Bluetooth-Haut-Parleur-Intelligente/dp/B0B4WDBR4R?ref_=Oct_DLandingS_D_d9103db9_60",
+			"image": "https://m.media-amazon.com/images/I/31RCmtPAf5L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-16%",
+			"price": "199.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "168.88",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-12 06:19:26.368337"
+		},
+		{
+			"title": "Samsung: une s\u00e9lection de smartphones S23-series",
+			"url": "/b?node=76520357031",
+			"image": "https://m.media-amazon.com/images/I/51N32nw3JuL.png",
+			"imageExt": "png",
+			"promotion": "Jusqu'\u00e0 -9%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-04-12 06:19:25.045579"
+		},
+		{
 			"title": "\u00c9couteurs Bluetooth 5.3, \u00c9couteur sans Fil avec ENC R\u00e9duction Casque Bluetooth Hi-FI Son St\u00e9r\u00e9o, Contr\u00f4le Tactile, 36 Heures Dur\u00e9e de Lecture, Oreillette Bluetooth Sport IP7 Etanche, \u00c9cran LED, Noir",
 			"url": "/%C3%89couteurs-Bluetooth-%C3%89couteur-R%C3%A9duction-Oreillette/dp/B0BCKHQGJN",
 			"image": "https://m.media-amazon.com/images/I/41FOUl1XmNL.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "26.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-01 06:18:06.378042"
-		},
-		{
-			"title": "SGIN 15,6\" Ordinateur Portable Windows 11 Home, 8 Go RAM 256 Go SSD ROM PC Portable (TF 512 Go), Celeron N4020C (Jusqu'\u00e0 2,8 GHz), HD IPS, 2 x USB 3.0, Bluetooth 4.2, WiFi Double Bande (Noir)",
-			"url": "/SGIN-Ordinateur-Portable-Windows-Bluetooth/dp/B0BNKXJPH9",
-			"image": "https://m.media-amazon.com/images/I/410lknMcN8L.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -16%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-03-31 06:20:05.325929"
-		},
-		{
-			"title": "Roccat Kone AIMO Souris Gaming (remastered) \u2013 Capteur Optique Owl-Eye Haute Pr\u00e9cision (de 100 \u00e0 16.000 DPI), Blanc",
-			"url": "/Roccat-Kone-Souris-Gaming-remastered/dp/B07YCG26KZ?ref_=Oct_DLandingS_D_10b8d4d3_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/311lGnf4aKL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-30%",
-			"price": "50.12",
-			"priceCurrency": "EUR",
-			"priceDeal": "34.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-03-31 06:20:02.890944"
 		}
 	]
 }
