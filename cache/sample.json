@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "Corsair VOID ELITE Wireless Casque de Gaming (son surround 7.1 Virtuel, Sans-fil 2,4 GHz \u00e0 faible latence, 12 m\u00e8tres Port\u00e9e, Customisable \u00c9clairage RGB avec PC, PS4 Compatibilit\u00e9) - Blanc",
+			"url": "/Corsair-CA-9011202-EU-Customisable-%C3%89clairage-Compatibilit%C3%A9/dp/B07Y2MBBT9?ref_=Oct_DLandingS_D_f15ce7c2_60",
+			"image": "https://m.media-amazon.com/images/I/41iQCdrzlGL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-18%",
+			"price": "109.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "89.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-13 06:19:00.592577"
+		},
+		{
+			"title": "Death Stranding Director&#39;s Cut (PlayStation 5)",
+			"url": "/Death-Stranding-Directors-Cut-PlayStation/dp/B099BWLC1K?ref_=Oct_DLandingS_D_decd4cd4_60",
+			"image": "https://m.media-amazon.com/images/I/51CL8dyy+fS._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-29%",
+			"price": "27.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "19.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-13 06:18:58.557147"
+		},
+		{
+			"title": "Logitech, Oversteel, Steelseries: une s\u00e9lection d'accessoires traditionnels et gaming",
+			"url": "/deal/a94440ff?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/81fasHP05jL.png",
+			"imageExt": "png",
+			"promotion": "Jusqu'\u00e0 -25%",
+			"price": "",
+			"priceCurrency": "",
+			"priceDeal": "",
+			"priceDealCurrency": "",
+			"date": "2023-04-13 06:18:57.544875"
+		},
+		{
 			"title": "HUAWEI FreeBuds Pro 2 TWS Ecouteurs Bluetooth sans Fil,Con\u00e7u avec Devialet,Certifi\u00e9 HWA et Hi-Res Wireless,Double Haut-Parleur True Sound,R\u00e9duction de Bruit Intelligente jusqu&#39;\u00e0 47 DB,iOS et Android",
 			"url": "/HUAWEI-Ecouteurs-Bluetooth-Haut-Parleur-Intelligente/dp/B0B4WDBR4R?ref_=Oct_DLandingS_D_d9103db9_60",
 			"image": "https://m.media-amazon.com/images/I/31RCmtPAf5L._AC_SR400,600_.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "47.28",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-02 06:17:56.578851"
-		},
-		{
-			"title": "Dascert \u00c9couteur sans Fil Bluetooth Sport",
-			"url": "/Ecouteurs-Bluetooth-%C3%89couteur-Antibruit-Oreillette/dp/B0B7H9TQBF",
-			"image": "https://m.media-amazon.com/images/I/41gQwHh1cgL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-10%",
-			"price": "29.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "26.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-01 06:18:08.757181"
-		},
-		{
-			"title": "Lenovo IdeaPad 3 Chromebook 15IJL6 - Ordinateur Portable 15.6&#39;&#39; FHD (Celeron N4500, RAM 4Go, 64GB eMMC, Intel UHD Graphics, Chrome OS) Clavier AZERTY (fran\u00e7ais) - Gris fonc\u00e9",
-			"url": "/Lenovo-IdeaPad-Chromebook-Ordinateur-Portable/dp/B09S62T3ZH?ref_=Oct_DLandingS_D_6f8d72ca_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41gK53FeGoL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-4%",
-			"price": "229.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "219.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-01 06:18:08.329364"
-		},
-		{
-			"title": "Pdp Filaire Manette Electric Carbon pour Xbox Series X|S, Gamepad, Video Game, Gaming Manette, Xbox One, Licence Officiel - Series",
-			"url": "/Filaire-Manette-Electric-Gamepad-Officiel/dp/B0B3VSTQWG?ref_=Oct_DLandingS_D_6957fbd9_60",
-			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41hjS5GDjXL._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-6%",
-			"price": "28.69",
-			"priceCurrency": "EUR",
-			"priceDeal": "26.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-01 06:18:06.378042"
 		}
 	]
 }
