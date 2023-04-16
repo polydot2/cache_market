@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"title": "Samsung : Une s\u00e9lection de Galaxy Book 2",
+			"url": "/deal/3d9652a0?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/81ESNb1B0rL.png",
+			"imageExt": "png",
+			"promotion": "-6%",
+			"price": "1324.81",
+			"priceCurrency": "EUR",
+			"priceDeal": "1249.0",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-16 06:18:22.426071"
+		},
+		{
 			"title": "realme Buds Air 3 \u00e9couteurs, R\u00e9duction active du bruit Bluetooth 5.2, amplificateur de basses dynamique de 10\u00a0mm, 30 heures de lecture au total, \u00c9tanch\u00e9it\u00e9 IPX5, Bleu stellaire",
 			"url": "/realme-%C3%A9couteurs-R%C3%A9duction-amplificateur-%C3%89tanch%C3%A9it%C3%A9/dp/B018LW032S?ref_=Oct_DLandingS_D_463a7827_0",
 			"image": "https://m.media-amazon.com/images/I/31Ad4Oi+f7L._AC_SR400,600_.jpg",
@@ -347,18 +359,6 @@
 			"priceDeal": "39.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-03 06:19:26.967950"
-		},
-		{
-			"title": "BERIBES Casque Bluetooth sans Fil - Dur\u00e9e de Lecture : 55 h - Casque sans Fil Bluetooth avec Micro 3 Modes EQ - Style Around-Ear - avec Microphone - pour iPhone/iPad/Android/Ordinateurs Portables",
-			"url": "/BERIBES-Casque-Bluetooth-sans-Fil/dp/B0BNHGN2GL",
-			"image": "https://m.media-amazon.com/images/I/410sYwp5x+L.jpg",
-			"imageExt": "jpg",
-			"promotion": "-5%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-02 06:18:00.661679"
 		}
 	]
 }
