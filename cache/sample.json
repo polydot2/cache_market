@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "EA Xbox (t\u00e9l\u00e9chargement)",
+			"url": "/deal/52ab9c51?showVariations=true",
+			"image": "https://m.media-amazon.com/images/I/417+96SaFqL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-20%",
+			"price": "79.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "63.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-23 06:18:45.460571"
+		},
+		{
+			"title": "OIVO Chargeur Manette PS5, Station de Charge Rapide Tactile\u00a0Compatible avec Sony Playstation 5, Double Chargeur PS5 Dualsense avec Support Casque",
+			"url": "/OIVO-Chargeur-Tactile-Compatible-Playstation-Dualsense/dp/B09L4H63Y5",
+			"image": "https://m.media-amazon.com/images/I/41CnFVCosGL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-5%",
+			"price": "31.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "30.39",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-23 06:18:44.830268"
+		},
+		{
 			"title": "yobola Ecouteurs Bluetooth sans Fil, Ecouteur Bluetooth 5.1 Hi-FI Son St\u00e9r\u00e9o, Contr\u00f4le Tactile, Microphones Int\u00e9gr\u00e9s, 25 Heures Dur\u00e9e de Lecture, USB-C Charge Rapide, pour iOS et Android Telephone",
 			"url": "/Ecouteurs-Bluetooth-yobola-Microphones-Telephone/dp/B09LCVHCVX",
 			"image": "https://m.media-amazon.com/images/I/31LrlILoZHL.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "",
 			"priceDealCurrency": "",
 			"date": "2023-04-11 06:19:19.833931"
-		},
-		{
-			"title": "Xiaomi : s\u00e9lection de smartphones, trotinettes \u00e9lectriques et objets connect\u00e9s",
-			"url": "/s?rh=n%3A58768910031&fs=true&",
-			"image": "https://m.media-amazon.com/images/I/71BBaSAoJUL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -10%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-11 06:19:18.224695"
-		},
-		{
-			"title": "Jabra: une s\u00e9lection d'\u00e9couteurs sans fils",
-			"url": "/deal/e0a113a2",
-			"image": "https://m.media-amazon.com/images/I/31CSt+SS-dL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -11%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-10 06:19:19.063918"
 		}
 	]
 }
