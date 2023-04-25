@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "Blackview BV9200 T\u00e9l\u00e9phone Portable Incassable(14Go+256Go/SD-1To,6.6\"QHD+120Hz 5000mAh/66W, Helio G96 octa-core 50MP+16MP)Smartphone Incassable Android 12,Herman Audio/Corning Glass/TUV certified/NFC",
+			"url": "/Blackview-T%C3%A9l%C3%A9phone-Incassable-octa-core-Smartphone/dp/B0BS3JDB8W",
+			"image": "https://m.media-amazon.com/images/I/51rgKh0tBWL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-15%",
+			"price": "339.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "288.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-25 06:19:28.223671"
+		},
+		{
+			"title": "Newmen GM610 Clavier de Jeu m\u00e9canique 60% rempla\u00e7able \u00e0 Chaud avec Jeu de Touches suppl\u00e9mentaires, r\u00e9tro\u00e9clair\u00e9 RVB, Touches programmables compl\u00e8tes pour Windows/Mac/Android",
+			"url": "/GM610-suppl%C3%A9mentaires-r%C3%A9tro%C3%A9clair%C3%A9-programmables-Interrupteur/dp/B091TKW6GP",
+			"image": "https://m.media-amazon.com/images/I/41qvZk8PMYL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-17%",
+			"price": "49.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "41.5",
+			"priceDealCurrency": "EUR",
+			"date": "2023-04-25 06:19:27.772967"
+		},
+		{
 			"title": "S\u00e9lection de casques de PICO",
 			"url": "/deal/0140d15a",
 			"image": "https://m.media-amazon.com/images/I/41I7I0rwBbL.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "89.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-13 06:19:00.592577"
-		},
-		{
-			"title": "Death Stranding Director&#39;s Cut (PlayStation 5)",
-			"url": "/Death-Stranding-Directors-Cut-PlayStation/dp/B099BWLC1K?ref_=Oct_DLandingS_D_decd4cd4_60",
-			"image": "https://m.media-amazon.com/images/I/51CL8dyy+fS._AC_SR400,600_.jpg",
-			"imageExt": "",
-			"promotion": "-29%",
-			"price": "27.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "19.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-13 06:18:58.557147"
-		},
-		{
-			"title": "Logitech, Oversteel, Steelseries: une s\u00e9lection d'accessoires traditionnels et gaming",
-			"url": "/deal/a94440ff?showVariations=true",
-			"image": "https://m.media-amazon.com/images/I/81fasHP05jL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -25%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-13 06:18:57.544875"
 		}
 	]
 }
