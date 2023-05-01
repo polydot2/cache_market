@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "HP Pavilion x360 15-er1000sf PC Ultraportable Convertible et Tactile 15.6&#34; FHD (Intel Core i3-1215U, RAM 8 Go, SSD 512 Go, AZERTY, Windows 11 Famille) Argent naturel",
+			"url": "/HP-Pavilion-15-er1000sf-Ultraportable-Convertible/dp/B0BB3B6S7C?ref_=Oct_DLandingS_D_c8355e1f_0",
+			"image": "https://m.media-amazon.com/images/I/41ILSyq0UqL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-13%",
+			"price": "799.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "699.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-01 06:19:33.859302"
+		},
+		{
+			"title": "realme Watch 3, \u00c9cran Ultra Large et Lumineux de 1,8&#34;, Plus de 110\u00a0Modes de Sport, Appels Bluetooth d\u2019Une Grande clart\u00e9, Plus de 100\u00a0Cadrans, Black",
+			"url": "/realme-Lumineux-110-Modes-Bluetooth-100-Cadrans/dp/B09XR1LDQ9?ref_=Oct_DLandingS_D_84b257c6_0",
+			"image": "https://m.media-amazon.com/images/I/31ITMxl6DYL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-24%",
+			"price": "69.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "52.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-01 06:19:32.922388"
+		},
+		{
+			"title": "SteelSeries Rival 3 - Souris gaming - Capteur Optique TrueMove Core de 8500 CPI - 6 Boutons Programmables - Boutons en G\u00e2chettes Scind\u00e9es",
+			"url": "/SteelSeries-Rival-TrueMove-Programmables-G%C3%A2chettes/dp/B082XQHPCL?ref_=Oct_DLandingS_D_8af37b48_0",
+			"image": "https://m.media-amazon.com/images/I/31ez+aSM37L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-5%",
+			"price": "24.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "23.74",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-01 06:19:31.930658"
+		},
+		{
 			"title": "ASUS TUF A15-TUF506QM-HN115W PC Portable Gamer Full HD 15\" 144Hz (AMD Ryzen 7-5800H, 16Go de RAM, 512Go PCIe SSD, Nvidia Geforce RTX 3060, Windows 11) Clavier R\u00e9tro\u00e9clair\u00e9 AZERTY Fran\u00e7ais",
 			"url": "/Gaming-portable-Windows-Clavier-Fran%C3%A7ais/dp/B09QSV18F8",
 			"image": "https://m.media-amazon.com/images/I/41WgULPtbGL.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "10.82",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-22 06:18:32.410560"
-		},
-		{
-			"title": "Just For Games: selection de jeux vid\u00e9o",
-			"url": "/deal/2125aec2?showVariations=true",
-			"image": "https://m.media-amazon.com/images/I/41yzcpQgtcL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -18%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-22 06:18:31.791895"
-		},
-		{
-			"title": "\u00c9couteurs Bluetooth 5 sans Fil St\u00e9r\u00e9o Oreillette Bluetooth et \u00c9cran LCD IPX7 Contr\u00f4le Tactile,40H d\u2019Autonomie Boitier Microphones Int\u00e9gr\u00e9s, USB-C Charge Rapide pour Le Sport/Voyage \uff08Noir\uff09",
-			"url": "/%C3%89couteurs-Bluetooth-Oreillette-dAutonomie-Microphones/dp/B08QYLQZ4X",
-			"image": "https://m.media-amazon.com/images/I/41QZPWkWldL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-19%",
-			"price": "29.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "24.21",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-21 06:19:38.287227"
-		},
-		{
-			"title": "TECLAST Ordinateur Portable15,6 Pouces F15S 6Go RAM 128Go SSD(1To Extensible) Ultrabook Notebook Intel Celeron N4020 jusqu'\u00e0 2,8GHz, 4K FHD 1920x1080, USB 3.0, Mini-HDMI, WiFi, Windows10, Tout M\u00e9tal",
-			"url": "/TECLAST-P80T-Tablette-Tactile-Bluetooth/dp/B0B93524YB",
-			"image": "https://m.media-amazon.com/images/I/41xuctIAbdL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-32%",
-			"price": "299.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "204.74",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-21 06:19:37.870128"
 		}
 	]
 }
