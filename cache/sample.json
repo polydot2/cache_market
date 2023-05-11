@@ -1,6 +1,30 @@
 {
 	"items": [
 		{
+			"title": "HP Laptop 17-cp0001sf PC Portable 17.3&#34; FHD IPS (AMD Ryzen 7, RAM 16 Go, SSD 1 To, AZERTY, Windows 11 Famille) Argent naturel",
+			"url": "/HP-17-cp0001sf-Portable-Windows-Famille/dp/B09V8XC5QX?ref_=Oct_DLandingS_D_04b782cb_0",
+			"image": "https://m.media-amazon.com/images/I/41Y+c0xhm4L._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-17%",
+			"price": "899.00",
+			"priceCurrency": "EUR",
+			"priceDeal": "749.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-11 06:19:13.696663"
+		},
+		{
+			"title": "TCL 40SE Smartphone D\u00e9bloqu\u00e9 256Go,Android 13,\u00e9cran 6.75\", 6 Go RAM+256 Go Double SIM, 50MP cam\u00e9ra Triple,NFC, MediaTek Helio G37, 5000 mAh",
+			"url": "/TCL-40SE-T%C3%A9l%C3%A9phone-Smartphone-Cellulaire/dp/B0BRRQ4RRB",
+			"image": "https://m.media-amazon.com/images/I/41hCqXQwBxL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-20%",
+			"price": "249.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "199.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-11 06:19:12.503787"
+		},
+		{
 			"title": "9S Casque Bluetooth sans fil, 60 Heures Casque Bluetooth sur l'oreille Casque Pliable l\u00e9ger Filaire St\u00e9r\u00e9o Casque Hi-Fi St\u00e9r\u00e9o avec 6 Modes EQ, Micro SD/TF Pour Voyage Travail Ordinateur Portable",
 			"url": "/9S-Bluetooth-loreille-Ordinateur-Portable/dp/B0BR14J1QX",
 			"image": "https://m.media-amazon.com/images/I/41QS6HN6qWL.jpg",
@@ -335,30 +359,6 @@
 			"priceDeal": "288.99",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-25 06:19:28.223671"
-		},
-		{
-			"title": "Newmen GM610 Clavier de Jeu m\u00e9canique 60% rempla\u00e7able \u00e0 Chaud avec Jeu de Touches suppl\u00e9mentaires, r\u00e9tro\u00e9clair\u00e9 RVB, Touches programmables compl\u00e8tes pour Windows/Mac/Android",
-			"url": "/GM610-suppl%C3%A9mentaires-r%C3%A9tro%C3%A9clair%C3%A9-programmables-Interrupteur/dp/B091TKW6GP",
-			"image": "https://m.media-amazon.com/images/I/41qvZk8PMYL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-17%",
-			"price": "49.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "41.5",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-25 06:19:27.772967"
-		},
-		{
-			"title": "S\u00e9lection de casques de PICO",
-			"url": "/deal/0140d15a",
-			"image": "https://m.media-amazon.com/images/I/41I7I0rwBbL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -9%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-24 06:20:03.800377"
 		}
 	]
 }
