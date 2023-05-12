@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"title": "Ecouteurs Bluetooth sans Fil Sport, Dascert \u00c9couteur sans Fil Bluetooth 5.3 HiFi St\u00e9r\u00e9o, Oreillette Bluetooth avec \u00c9cran LED, 48Hrs Antibruit USB-C Charge Rapide, IP7 Etanche 800mAh Casque iOS Android",
+			"url": "/Ecouteurs-Bluetooth-Dascert-Oreillette-Antibruit/dp/B0B3QQYTH5",
+			"image": "https://m.media-amazon.com/images/I/41gQwHh1cgL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-5%",
+			"price": "24.2",
+			"priceCurrency": "EUR",
+			"priceDeal": "22.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-12 06:18:35.468166"
+		},
+		{
+			"title": "LG Gram 16Z90R-G.AA56F - PC Portable 16&#34; 1199g, \u00e9cran IPS QHD+ Format 16:10, Intel\u00ae Evo\u2122 i5-1340P, RAM 16Go, SSD 512Go NVMe, Intel Iris XE Graphics, Thunderbolt\u2122 4, Windows 11, Clavier AZERTY, Gris",
+			"url": "/LG-Gram-16Z90R-G-AA56F-Portable-ThunderboltTM/dp/B0BZT3LKK8?ref_=Oct_DLandingS_D_bd6d24d5_0",
+			"image": "https://m.media-amazon.com/images/I/3182Sj3FibL._AC_SR400,600_.jpg",
+			"imageExt": "",
+			"promotion": "-25%",
+			"price": "1599.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "1199.00",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-12 06:18:34.932317"
+		},
+		{
+			"title": "Logitech G PRO X Casque Gamer Over-Ear avec Micro BLUE VO!CE, DTS Headphone:X 7.1, Transducteurs PRO-G 50mm, Son Surround 7.1 pour Gaming Esport, PC/PS/Xbox/Nintendo Switch - Noir",
+			"url": "/Logitech-Casque-Gaming-G%C3%A9n%C3%A9ration-Headphone/dp/B07TLX61W7",
+			"image": "https://m.media-amazon.com/images/I/41CnbZSIBnL.jpg",
+			"imageExt": "jpg",
+			"promotion": "-10%",
+			"price": "99.99",
+			"priceCurrency": "EUR",
+			"priceDeal": "89.99",
+			"priceDealCurrency": "EUR",
+			"date": "2023-05-12 06:18:32.861768"
+		},
+		{
 			"title": "HP Laptop 17-cp0001sf PC Portable 17.3&#34; FHD IPS (AMD Ryzen 7, RAM 16 Go, SSD 1 To, AZERTY, Windows 11 Famille) Argent naturel",
 			"url": "/HP-17-cp0001sf-Portable-Windows-Famille/dp/B09V8XC5QX?ref_=Oct_DLandingS_D_04b782cb_0",
 			"image": "https://m.media-amazon.com/images/I/41Y+c0xhm4L._AC_SR400,600_.jpg",
@@ -323,42 +359,6 @@
 			"priceDeal": "229.00",
 			"priceDealCurrency": "EUR",
 			"date": "2023-04-26 06:19:21.877131"
-		},
-		{
-			"title": "Samsung: Offre sur les ZFlip4 & ZFold4",
-			"url": "/b?node=77998631031",
-			"image": "https://m.media-amazon.com/images/I/51feyuLiCHL.png",
-			"imageExt": "png",
-			"promotion": "Jusqu'\u00e0 -11%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-26 06:19:21.034818"
-		},
-		{
-			"title": "Best of Turtle Beach",
-			"url": "/Turtle-Beach-Casque-Gaming-Nintendo/dp/B07NQX1J99",
-			"image": "https://m.media-amazon.com/images/I/41ywx5-l-EL.jpg",
-			"imageExt": "jpg",
-			"promotion": "Jusqu'\u00e0 -22%",
-			"price": "",
-			"priceCurrency": "",
-			"priceDeal": "",
-			"priceDealCurrency": "",
-			"date": "2023-04-26 06:19:19.406967"
-		},
-		{
-			"title": "Blackview BV9200 T\u00e9l\u00e9phone Portable Incassable(14Go+256Go/SD-1To,6.6\"QHD+120Hz 5000mAh/66W, Helio G96 octa-core 50MP+16MP)Smartphone Incassable Android 12,Herman Audio/Corning Glass/TUV certified/NFC",
-			"url": "/Blackview-T%C3%A9l%C3%A9phone-Incassable-octa-core-Smartphone/dp/B0BS3JDB8W",
-			"image": "https://m.media-amazon.com/images/I/51rgKh0tBWL.jpg",
-			"imageExt": "jpg",
-			"promotion": "-15%",
-			"price": "339.99",
-			"priceCurrency": "EUR",
-			"priceDeal": "288.99",
-			"priceDealCurrency": "EUR",
-			"date": "2023-04-25 06:19:28.223671"
 		}
 	]
 }
