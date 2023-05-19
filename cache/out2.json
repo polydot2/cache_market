@@ -1,10 +1,43 @@
 {
     "items": [
         {
-            "title": "\ud83c\udfd6\ufe0f Auchan, 50% cagnott\u00e9s sur fauteuil relax Lafuma",
-            "pubDate": "Wed, 17 May 2023 16:54:11 +0000",
-            "date": "2023-05-17 16:54:11",
-            "description": "Clients Auchan, cagnottez 50% du montant d&#8217;achat du fameux fauteuil relax LAFUMA multipositions silex RT2 qui vous reviendra donc \u00e0",
+            "title": "\ud83d\udc57 Cache Cache, -60% sur s\u00e9lection",
+            "pubDate": "Thu, 18 May 2023 14:00:00 +0000",
+            "date": "2023-05-18 14:00:00",
+            "description": "-60% d\u00e8s 2 articles achet\u00e9s parmi une s\u00e9lection d&#8217;articles de l&#8217;e-shop CACHE CACHE jusqu&#8217;au 21 mai",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udeb4 Boll\u00e9, vente flash -50% sur casque v\u00e9lo Furo Mips",
+            "pubDate": "Thu, 18 May 2023 12:00:00 +0000",
+            "date": "2023-05-18 12:00:00",
+            "description": "-50% sur le casque v\u00e9lo Furo Mips sur l&#8217;e-shop BOLL\u00c9",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udecb Alin\u00e9a, -15\u20ac tous les 100\u20ac",
+            "pubDate": "Thu, 18 May 2023 10:00:00 +0000",
+            "date": "2023-05-18 10:00:00",
+            "description": "-15\u20ac tous les 100\u20ac d&#8217;achat sur l&#8217;e-shop ALINEA jusqu&#8217;au 21 mai (jusqu&#8217;\u00e0 une remise maximum de -300\u20ac)",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udc57 Naf Naf, -50% sur tout",
+            "pubDate": "Thu, 18 May 2023 08:00:00 +0000",
+            "date": "2023-05-18 08:00:00",
+            "description": "-50% sur tout l&#8217;e-shop NAF NAF jusqu&#8217;au 21 mai",
             "url": null,
             "category": [
                 "#bonplan"
