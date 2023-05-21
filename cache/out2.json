@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "title": "\ud83d\udcbb FNAC,  codes flash jusqu\u2019\u00e0 -100\u20ac",
+            "pubDate": "Sat, 20 May 2023 15:00:39 +0000",
+            "date": "2023-05-20 15:00:39",
+            "description": "-40\u20ac d\u00e8s 400\u20ac d&#8217;achat avec le code MICRO40 -70\u20ac d\u00e8s 700\u20ac d&#8217;achat avec le code MICRO70 -100\u20ac d\u00e8s 1000\u20ac d&#8217;achat",
+            "url": "https://www.fnac.com",
+            "category": [
+                "#bonplan"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fnac_Logo.svg/1984px-Fnac_Logo.svg.png"
+        },
+        {
             "title": "\ud83c\udfad Ticketac, 1 billet achet\u00e9 = 1 offert",
             "pubDate": "Fri, 19 May 2023 14:32:00 +0000",
             "date": "2023-05-19 14:32:00",
