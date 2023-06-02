@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "title": "\ud83d\udc5f CDiscount, code -20\u20ac d\u00e8s 50\u20ac sur Puma",
+            "pubDate": "Thu, 01 Jun 2023 19:45:00 +0000",
+            "date": "2023-06-01 19:45:00",
+            "description": "-20\u20ac d\u00e8s 50\u20ac d&#8217;achat parmi une s\u00e9lection d&#8217;articles PUMA sur l&#8217;e-shop CDiscount avec le code SPRINGPUMA23 valable jusqu&#8217;au 9 juin",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83d\udecb\ufe0f Maisons du monde, livraison offerte sur le meuble",
+            "pubDate": "Thu, 01 Jun 2023 18:00:00 +0000",
+            "date": "2023-06-01 18:00:00",
+            "description": "Livraison \u00e0 domicile offerte sur le meuble* de l&#8217;e-shop MAISONS DU MONDE d\u00e8s 400\u20ac d&#8217;achat jusqu&#8217;au 5 juin * quelques",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
+            "title": "\ud83c\udfac Canal+ (moins de 26 ans), Netflix Disney+ OCS Paramount+",
+            "pubDate": "Thu, 01 Jun 2023 09:33:32 +0000",
+            "date": "2023-06-01 09:33:32",
+            "description": "Canal+ avec Netflix, Apple TV+, Disney+, Paramount+ et OCS \u00e0 19,45\u20ac/mois sans engagement pour les moins de 26 ans.",
+            "url": null,
+            "category": [
+                "#bonplan"
+            ],
+            "image": null
+        },
+        {
             "title": "\ud83d\udc57 Boden, code -20%",
             "pubDate": "Wed, 31 May 2023 11:00:00 +0000",
             "date": "2023-05-31 11:00:00",
